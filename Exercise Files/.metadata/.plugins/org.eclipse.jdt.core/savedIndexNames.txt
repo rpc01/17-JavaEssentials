@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+/home/owner/Escritorio/17-javaEssentialTraining/Exercise Files/.metadata/.plugins/org.eclipse.jdt.core
+32453321.index
