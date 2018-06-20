@@ -1,0 +1,11 @@
+//Passing Variables: Value or Reference--> JAVA ALWAYS BY COPY (VALUES)
+    
+    void incrementValue(int inMethod) {
+    	inMethod ++;
+    	System.out.println("IN method: "+ inMethod);
+    }
+    
+    int original = 10;
+    System.out.println("Original before: " +original);
+    incrementValue(original);
+    System.out.println("Original after: " +original);
