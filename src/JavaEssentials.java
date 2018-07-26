@@ -1,11 +1,11 @@
 
 public class JavaEssentials {
 
-		
+
 		public static void main(String[] args) {
 			System.out.println("Hello from Java!");
 			System.out.println(args[0]);
-			
+
 
 			    static boolean bDef;
 
@@ -28,12 +28,14 @@ public class JavaEssentials {
 			        boolean parsed = Boolean.parseBoolean(sBoolean);
 			        System.out.println("Parsed: " + parsed);
 
+							trial
+
 
 			}
 			
-			
+
 		}
 
-	
-	
+
+
 }
